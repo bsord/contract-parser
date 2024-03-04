@@ -1,0 +1,4 @@
+llama-index
+pydantic
+werkzeug
+flask
